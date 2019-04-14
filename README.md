@@ -1,6 +1,6 @@
 # pyliquid
 
-## Discription
+## Description
 
 This is the python api wrapper for liquid crypto currency exchange.
 https://app.liquid.com/
